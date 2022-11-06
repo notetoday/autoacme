@@ -5,14 +5,12 @@
 ## 使用方法
 
 ```shell
-wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/acme1key@master/acme1key.sh && chmod -R 777 acme1key.sh && bash acme1key.sh
+wget -N https://cdn.jsdelivr.net/gh/notetoday/autoacme@master/autoacme.sh && chmod -R 777 autoacme.sh && bash autoacme.sh
 ```
 
 快捷方式 `bash acme1key.sh`
 
-## 赞助我们
 
-![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
 
 ## 交流群
-[Telegram](https://t.me/misakanetcn)
+[Telegram](https://t.me/Notestoday)
