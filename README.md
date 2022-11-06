@@ -8,7 +8,7 @@
 wget -N https://cdn.jsdelivr.net/gh/notetoday/autoacme@master/autoacme.sh && chmod -R 777 autoacme.sh && bash autoacme.sh
 ```
 
-快捷方式 `bash acme1key.sh`
+快捷方式 `bash autoacme.sh`
 
 
 
